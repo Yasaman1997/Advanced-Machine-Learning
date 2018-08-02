@@ -17,4 +17,4 @@
 
 
 
-Course Link is (here)[https://www.coursera.org/specializations/aml]
+Course Link is [https://www.coursera.org/specializations/aml](here)
