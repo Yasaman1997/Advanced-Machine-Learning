@@ -14,3 +14,7 @@
 6.Deep Learning in Computer Vision
 
 7.Addressing Large Hadron Collider Challenges by Machine Learning
+
+
+
+Course Link is (here)[https://www.coursera.org/specializations/aml]
